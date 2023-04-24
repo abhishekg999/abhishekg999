@@ -4,7 +4,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekg999&show_icons=true&locale=en&layout=compact&theme=dark" alt="abhishekg999" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekg999&show_icons=true&locale=en&theme=dark" alt="abhishekg999" /></p>
 
-- 🔭 I’m currently working on [Scene Editor](https://github.com/abhishekg999/scene-editor)
+- 🔭 I’m currently working on [**Scene Editor**](https://github.com/abhishekg999/scene-editor)
 
 - 🌱 I’m currently learning **Digital Systems with SystemVerilog**
 
