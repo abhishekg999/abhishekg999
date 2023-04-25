@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Digital Systems with SystemVerilog**
 
-- 💬 Ask me about **Python, React, Web Security**
+- 💬 Ask me about **Python, React, Web Security**! I enjoy bug bounty on the side, so if you have any interesting reports to share, please do!
 
 - 📫 How to reach me **agovindarasu@ucsd.edu**
 
