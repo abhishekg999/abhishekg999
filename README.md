@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, React, Web Security**! 
   - I enjoy bug bounty on the side, so if you have any interesting reports to share, please do!
-- 📫 How to reach me **agovindarasu@ucsd.edu**
+- 📫 Reach me at: **agovindarasu@ucsd.edu**
 
 - ⚡ While you are here, check out [**Touchdown.life**](https://touchdown.life/) 🏈
 
