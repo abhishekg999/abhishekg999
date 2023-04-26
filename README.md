@@ -1,10 +1,11 @@
-<h1 align="center">Hello! I'm Abhishek Govindarasu 👋</h1>
-<h3 align="center">A passionate Computer Science student and Software Developer.</h3>
+<h1 align="center">👋 Hi! I'm Abhishek Govindarasu </h1>
+<h3 align="center">A passionate Computer Science student and Software Developer. 💻</h3>
+<h4 align="center"> 🧑‍💻 I love coming up with creative and efficient digital solutions!  </h5>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekg999&show_icons=true&layout=compact&theme=dark" alt="abhishekg999" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekg999&show_icons=true&theme=dark" alt="abhishekg999" /></p>
 
-- 🔭 I’m currently working on [**Scene Editor**](https://github.com/abhishekg999/scene-editor)
+- 🔭 I’m currently working on [**Scene Editor**](https://github.com/abhishekg999/scene-editor), a visual editor for the Web Animations API.
 
 - 🌱 I’m currently learning **Digital Systems with SystemVerilog**
 
@@ -16,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/abhishekg999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishekg999" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhishekgovindarasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekgovindarasu" height="30" width="40" /></a>
+  <a href="https://twitter.com/abhishekg999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishekg999" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
