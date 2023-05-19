@@ -7,10 +7,8 @@
 
 - 🔭 I’m currently working on [**Scene Editor**](https://github.com/abhishekg999/scene-editor), a visual editor for the Web Animations API.
 
-- 🌱 I’m currently learning **Digital Systems with SystemVerilog**
-
 - 💬 Ask me about **Python, React, Web Security**! 
-  - I enjoy bug bounty on the side, so if you have any interesting reports to share, please do!
+
 - 📫 Reach me at: **agovindarasu@ucsd.edu**
 
 - ⚡ While you are here, check out [**Touchdown.life**](https://touchdown.life/) 🏈
