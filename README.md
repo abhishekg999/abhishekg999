@@ -2,8 +2,8 @@
 <h3 align="center">A Computer Science student, Software Developer, and Security Enthusiast. 💻</h3>
 <h4 align="center"> 🧑‍💻 I enjoy coming up with creative and efficient digital solutions.  </h5>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekg999&show_icons=true&layout=compact&theme=light" alt="abhishekg999" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekg999&show_icons=true&theme=light" alt="abhishekg999" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekg999&show_icons=true&layout=compact&theme=dark" alt="abhishekg999" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekg999&show_icons=true&theme=dark" alt="abhishekg999" /></p>
 
 - 🔭 I’m currently working on [**Scene Editor**](https://github.com/abhishekg999/scene-editor), a visual editor for the Web Animations API.
 
