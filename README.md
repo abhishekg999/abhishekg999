@@ -4,8 +4,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekg999&show_icons=true&layout=compact&theme=transparent" alt="abhishekg999" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekg999&show_icons=true&theme=transparent" alt="abhishekg999" /></p>
 
-<textarea> hi </textarea>
-
 - 📫 Reach me at: **agovindarasu@ucsd.edu**
 - ⚡ While you are here, check out [**Touchdown.life**](https://touchdown.life/) 🏈
 
