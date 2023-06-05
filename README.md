@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hi! I'm Abhishek Govindarasu </h1>
 <h3 align="center">A Computer Science student, Software Developer, and Security Enthusiast. 💻</h3>
-<h4 align="center"> 🧑‍💻 I enjoy coming up with creative and efficient digital solutions.  </h5>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekg999&show_icons=true&layout=compact&theme=transparent" alt="abhishekg999" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekg999&show_icons=true&theme=transparent" alt="abhishekg999" /></p>
