@@ -5,12 +5,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekg999&show_icons=true&layout=compact&theme=transparent" alt="abhishekg999" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekg999&show_icons=true&theme=transparent" alt="abhishekg999" /></p>
 
-- 🔭 I’m currently working on [**Scene Editor**](https://github.com/abhishekg999/scene-editor), a visual editor for the Web Animations API.
-
-- 💬 Ask me about **Python, React, Web Security**! 
-
 - 📫 Reach me at: **agovindarasu@ucsd.edu**
-
 - ⚡ While you are here, check out [**Touchdown.life**](https://touchdown.life/) 🏈
 
 <h3 align="left">Connect with me:</h3>
