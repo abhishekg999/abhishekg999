@@ -4,6 +4,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekg999&show_icons=true&layout=compact&theme=transparent" alt="abhishekg999" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekg999&show_icons=true&theme=transparent" alt="abhishekg999" /></p>
 
+
+### Recently I competed in the NahamCon CTF 2023! Checkout some of my writeups for it here:
+- [**NahamCon CTF 2023**](https://github.com/abhishekg999/NahamConCTF-2023)
+
+<br>
 - 📫 Reach me at: **agovindarasu@ucsd.edu**
 - ⚡ While you are here, check out [**Touchdown.life**](https://touchdown.life/) 🏈
 
