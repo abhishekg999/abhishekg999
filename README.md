@@ -11,7 +11,7 @@
 <br>
 - 📫 Reach me at: <b>agovindarasu@ucsd.edu</b>
 </br>
-- ⚡ While you are here, check out [**Touchdown.life**](https://touchdown.life/) 🏈
+- ⚡ While you are here, check out [Touchdown.life](https://touchdown.life/) 🏈
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
