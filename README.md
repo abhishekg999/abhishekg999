@@ -9,7 +9,7 @@
 - [**NahamCon CTF 2023**](https://github.com/abhishekg999/NahamConCTF-2023)
 
 <br>
-- 📫 Reach me at: **agovindarasu@ucsd.edu**
+- 📫 Reach me at: <b>agovindarasu@ucsd.edu</b>
 
 - ⚡ While you are here, check out [**Touchdown.life**](https://touchdown.life/) 🏈
 
