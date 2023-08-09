@@ -4,10 +4,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekg999&show_icons=true&layout=compact&theme=transparent" alt="abhishekg999" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekg999&show_icons=true&theme=transparent" alt="abhishekg999" /></p>
 
-
-### Recently I competed in the UIUCTF 2023! Checkout some of my writeups for it here:
-- [**UIUCTF 2023**](https://github.com/abhishekg999/UIUCTF-2023)
-
 <br>
 - 📫 Reach me at: <b>agovindarasu@ucsd.edu</b>
 
