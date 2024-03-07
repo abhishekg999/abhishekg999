@@ -7,7 +7,8 @@
 
 <br>
 - 📫 Reach me at: <b>agovindarasu@ucsd.edu</b>
-- ⚡ While you are here, check out [Touchdown.life](https://touchdown.life/) 🏈
+</br>
+- ⚡ While you are here, check out <a href="https://touchdown.life/">Touchdown.life</a>🏈
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
