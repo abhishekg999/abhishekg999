@@ -18,4 +18,4 @@
 
 
 ```math
-\ce{$\unicode[color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 120vh; object-fit: cover; background-size: cover; width: 120vw; opacity: 0.5; background: url(https://raw.githubusercontent.com/abhishekg999/abhishekg999/main/bg.jpg) no-repeat center center fixed]{x0000}$}
+\ce{$\unicode[pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 120vh; object-fit: cover; background-size: cover; width: 120vw; opacity: 0.5; background: url(https://raw.githubusercontent.com/abhishekg999/abhishekg999/main/bg.jpg) no-repeat center center fixed]{x0000}$}
