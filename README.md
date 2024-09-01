@@ -6,7 +6,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekg999&show_icons=true&theme=transparent" alt="abhishekg999" /></p>
 
 <br>
-- 📫 Reach me at: <b>ahh@ucsd.edu</b>
+- 📫 Reach me at: <b>abhishekgovindarasu@gmail.com</b>
 </br>
 - ⚡ While you are here, check out <a href="https://touchdown.life/">Touchdown.life</a>🏈
 
