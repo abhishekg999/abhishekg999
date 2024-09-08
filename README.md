@@ -8,7 +8,6 @@
 <br>
 - 📫 Reach me at: <b>abhishekgovindarasu@gmail.com</b>
 </br>
-- ⚡ While you are here, check out <a href="https://touchdown.life/">Touchdown.life</a>🏈
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
