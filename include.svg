@@ -18,7 +18,7 @@
     </style>
 
     <!-- Background image -->
-    <image href="https://raw.githubusercontent.com/abhishekg999/abhishekg999/refs/heads/main/bg.jpg" width="400" height="80" class="background" />
+    <image href="https://github.com/abhishekg999/abhishekg999/blob/main/bg.jpg?raw=true" width="400" height="80" class="background" />
 
     <!-- Text container -->
     <g class="title">
