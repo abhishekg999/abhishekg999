@@ -3,8 +3,7 @@
         .background {
           background: url(https://raw.githubusercontent.com/abhishekg999/abhishekg999/refs/heads/main/bg.jpg)
         }
-
     </style>
 
-    <div class="background">
+    <div class="background">asdf</div>
 </svg>
