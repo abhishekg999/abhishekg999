@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 1500">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 1500" width="100%" height="100%">
+  <!-- Background Layer -->
   <rect fill="#000000" width="2000" height="1500"/>
   <defs>
     <path fill="none" stroke-width="84.7" stroke-opacity="0.14" id="a" d="M0.74-509.63l485.39 352.65l-185.4 570.61h-599.97l-185.4-570.61L0.74-509.63 M0.74-510.87l-486.56 353.51l185.85 571.99h601.42L487.3-157.36L0.74-510.87L0.74-510.87z"/>
@@ -27,4 +28,33 @@
       </g>
     </g>
   </g>
+  
+  <!-- HTML Content Layer -->
+  <foreignObject x="0" y="0" width="2000" height="1500">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: Arial, sans-serif; color: white; padding: 50px; box-sizing: border-box;">
+      <h1 align="center">👋 Hi! I'm Abhishek Govindarasu </h1>
+      <h3 align="center">A Computer Science student, Software Developer, and Security Enthusiast. 💻</h3>
+      
+      <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+        <div style="margin-right: 30px;">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekg999&show_icons=true&layout=compact&theme=transparent" alt="abhishekg999" />
+        </div>
+        <div>
+          <img src="https://github-readme-stats.vercel.app/api?username=abhishekg999&show_icons=true&theme=transparent" alt="abhishekg999" />
+        </div>
+      </div>
+
+      <p style="margin-top: 20px;">
+        📫 Reach me at: <b>abhishekgovindarasu@gmail.com</b><br />
+        🌐 Check out my website: <b><a href="https://ahh.bet" style="color: lightblue;">ahh.bet</a></b>
+      </p>
+
+      <h3 align="left">Connect with me:</h3>
+      <p align="left">
+        <a href="https://linkedin.com/in/abhishekgovindarasu" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekgovindarasu" height="30" width="40" />
+        </a>
+      </p>
+    </div>
+  </foreignObject>
 </svg>
