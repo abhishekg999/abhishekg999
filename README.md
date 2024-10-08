@@ -10,7 +10,6 @@
 ### 🛠 Tech Stack & Proficiency:
 - **Languages:** Python, JavaScript, Java, Go
 - **Areas of Interest:** Full-Stack Development, Automation, API Integrations, Web Security
-
 ---
 
 - 📫 Reach me at: <b>abhishekgovindarasu@gmail.com</b>
