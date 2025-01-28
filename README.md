@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi! I'm Abhishek Govindarasu </h1>
-<h3 align="center">A Computer Science student, Software Developer, and Security Enthusiast. 💻</h3>
+<h3 align="center">A Software Engineer, and Security Enthusiast. 💻</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhishekg999/abhishekg999/refs/heads/main/bg.jpg" alt="Profile Banner" />
