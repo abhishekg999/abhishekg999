@@ -12,7 +12,7 @@
 - **Areas of Interest:** Full-Stack Development, Automation, API Integrations, Web Security
 ---
 
-- 📫 Reach me at: <b>abhishekgovindarasu@gmail.com</b>
+- 📫 Reach me at: <b>abhi@ahh.bet</b>
 - 🌐 Check out my website: <b><a href="https://ahh.bet">ahh.bet</a></b>
 
 ---
